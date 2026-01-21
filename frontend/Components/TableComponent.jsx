@@ -44,4 +44,4 @@ const TableComponent = () => {
   )
 }
 
-export default TableComponent
+export default TableComponent ;
